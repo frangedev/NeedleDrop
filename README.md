@@ -2,8 +2,6 @@
 
 **NeedleDrop** is a retro-inspired, vinyl turntable-style music player for web and desktop environments. With a rich analog aesthetic, rotating UI elements, and tactile controls, it’s not just a music player — it’s an experience.
 
-![NeedleDrop UI Preview](preview.png)
-
 ---
 
 ## 🧠 Concept
